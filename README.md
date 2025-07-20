@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfin-Roy</h1>
+<h1 align="center">Hi 👋, I'm Alfin TR D Silva</h1>
 <h3 align="center">👨‍💻 Developer in Progress | ⚙️ Full Stack Explorer | 🤖 AI Curious</h3>
 
 <h3 align="left">Connect with me:</h3>
